@@ -1,5 +1,5 @@
 {
-    "name": "xmo/jwt-auth",
+    "name": "jiyang-soft/hyperf-jwt-auth",
     "type": "library",
     "license": "MIT",
     "keywords": [
